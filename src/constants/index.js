@@ -44,7 +44,7 @@ const navLinks = [
     },
    ];
    
-   const mockTailLists = [
+   const mocktailLists = [
     {
        name: "Tropical Bloom",
        country: "US",
@@ -172,7 +172,7 @@ const navLinks = [
    export {
     navLinks,
     cocktailLists,
-    mockTailLists,
+    mocktailLists,
     profileLists,
     featureLists,
     goodLists,
